@@ -1,4 +1,5 @@
 {
+ pnpm install
  "cssnano": "^4.1.11"
   "name": "html-css-to-js-challenge",
   "version": "1.0.0",
