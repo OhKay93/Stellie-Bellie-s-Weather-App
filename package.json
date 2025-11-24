@@ -14,3 +14,5 @@
   },
   "keywords": []
 }
+
+pnpm add -D cssnano@4.1.11
